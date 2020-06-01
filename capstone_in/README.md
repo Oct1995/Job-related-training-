@@ -1,5 +1,5 @@
 
-#  <img src="https://ga-core.s3.amazonaws.com/production/uploads/program/default_image/5593/thumb_GA_COG-01.png" width = 70 >   “ Job-related Training Recommendation system”
+#    “ Job-related Training Recommendation system”
 
 
 
